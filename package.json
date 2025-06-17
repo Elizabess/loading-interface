@@ -1,0 +1,22 @@
+{
+  "name": "loading-interface",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "webpack": "^5.99.9",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.2",
+    "workbox-webpack-plugin": "^7.3.0"
+  },
+  "dependencies": {
+    "koa": "^3.0.0",
+    "koa-static": "^5.0.0"
+  }
+}
